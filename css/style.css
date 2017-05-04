@@ -39,6 +39,7 @@
 #header{
 	width: 100%;
 	position: fixed;
+	display: block;
 	text-align: center;
 	background-color: white;
 	opacity:0.95;
@@ -190,6 +191,7 @@ a:hover{
 	padding-bottom: 15px;
 	background-color: gray;
 	text-align:center;
+	margin-bottom: 15px
 	}	
 	
 .projects img{
