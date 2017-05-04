@@ -186,7 +186,14 @@ a:hover{
 	}
 
 .projects{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: gray;
 	text-align:center;
+	}	
+	
+.projects img{
+	margin-bottom: 5px;
 	}	
 	
 #html{
