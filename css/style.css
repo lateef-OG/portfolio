@@ -40,6 +40,7 @@
 	width: 100%;
 	position: fixed;
 	display: block;
+	left:0;
 	text-align: center;
 	background-color: white;
 	opacity:0.95;
