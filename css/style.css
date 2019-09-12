@@ -173,6 +173,10 @@
 	padding: 3px 5px;
 	border: 1px solid #333333;
 }
+.skill:hover{
+	background: #333333;
+	color: #ffffff;
+}
 	
 .bar{
 	width: 100%;
